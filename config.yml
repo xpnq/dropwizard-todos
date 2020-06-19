@@ -1,0 +1,9 @@
+logging:
+  level: INFO
+  loggers:
+    com.leanix.assigment: DEBUG
+database:
+  driverClass: org.postgresql.Driver
+  user: raviteja
+  password: ravi
+  url: jdbc:postgresql://localhost/todos
